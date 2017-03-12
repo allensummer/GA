@@ -4,6 +4,7 @@
 using namespace std;
 
 int main(){
-    GA ga(8, 300);
-    ga.getBestServersPos(10);
+    int nodeNum = 13;
+    GA ga(13, pow(2,13)/100);
+    ga.getBestServersPos(15);
 }

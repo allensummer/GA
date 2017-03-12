@@ -29,9 +29,9 @@ class GA{
         int x(chrom popcurrent);                
         int y(int x);
         void *pickchroms(chrom* popcurrent, int initNum);    //选择操作
-        void *pickchroms_new(chrom* popcurrent, int initNum);//轮盘选择
+        void *pickchroms_new(chrom* popcurrent, chrom* popnext, int initNum);//轮盘选择
         void *crossover(chrom* popnext, int initNum);        //交叉操作
         void *mutation(chrom* popnext, int initNum);         //突变操作
-        chrom* popcurrent;                      //初始种群规模
-        chrom* popnext;                         //更新后种群规模
+        //chrom* popcurrent;                      //初始种群规模
+        //chrom* popnext;                         //更新后种群规模
 };

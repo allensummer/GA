@@ -1,0 +1,3861 @@
+13
+81
+13
+81
+
+i = 0
+popnext 0 
+bit is 197
+fit is 38814
+popnext 1 
+bit is 772
+fit is 595989
+popnext 2 
+bit is 964
+fit is 929301
+popnext 3 
+bit is 1028
+fit is 1056789
+popnext 4 
+bit is 1220
+fit is 1488405
+popnext 5 
+bit is 2225
+fit is 4950630
+popnext 6 
+bit is 2361
+fit is 5574326
+popnext 7 
+bit is 2408
+fit is 5798469
+popnext 8 
+bit is 2577
+fit is 6640934
+popnext 9 
+bit is 1220
+fit is 11303049
+popnext 10 
+bit is 3671
+fit is 13476246
+popnext 11 
+bit is 4439
+fit is 19704726
+popnext 12 
+bit is 5243
+fit is 27489054
+popnext 13 
+bit is 772
+fit is 37552389
+popnext 14 
+bit is 7715
+fit is 59521230
+
+i = 1
+popnext 0 
+bit is 196
+fit is 38421
+popnext 1 
+bit is 197
+fit is 38814
+popnext 2 
+bit is 772
+fit is 595989
+popnext 3 
+bit is 773
+fit is 597534
+popnext 4 
+bit is 964
+fit is 929301
+popnext 5 
+bit is 1028
+fit is 1056789
+popnext 6 
+bit is 1220
+fit is 1488405
+popnext 7 
+bit is 2225
+fit is 4950630
+popnext 8 
+bit is 2361
+fit is 5574326
+popnext 9 
+bit is 2408
+fit is 5798469
+popnext 10 
+bit is 2577
+fit is 6640934
+popnext 11 
+bit is 228
+fit is 6640934
+popnext 12 
+bit is 2821
+fit is 7958046
+popnext 13 
+bit is 1220
+fit is 11303049
+popnext 14 
+bit is 3671
+fit is 13476246
+
+i = 2
+popnext 0 
+bit is 196
+fit is 38421
+popnext 1 
+bit is 196
+fit is 38421
+popnext 2 
+bit is 197
+fit is 38814
+popnext 3 
+bit is 197
+fit is 38814
+popnext 4 
+bit is 772
+fit is 595989
+popnext 5 
+bit is 773
+fit is 597534
+popnext 6 
+bit is 964
+fit is 929301
+popnext 7 
+bit is 1028
+fit is 1056789
+popnext 8 
+bit is 1220
+fit is 1488405
+popnext 9 
+bit is 2225
+fit is 4950630
+popnext 10 
+bit is 2361
+fit is 5574326
+popnext 11 
+bit is 2408
+fit is 5798469
+popnext 12 
+bit is 2577
+fit is 6640934
+popnext 13 
+bit is 197
+fit is 6640934
+popnext 14 
+bit is 4292
+fit is 18421269
+
+i = 3
+popnext 0 
+bit is 196
+fit is 38421
+popnext 1 
+bit is 196
+fit is 38421
+popnext 2 
+bit is 196
+fit is 38421
+popnext 3 
+bit is 196
+fit is 38421
+popnext 4 
+bit is 197
+fit is 38814
+popnext 5 
+bit is 197
+fit is 38814
+popnext 6 
+bit is 228
+fit is 51989
+popnext 7 
+bit is 772
+fit is 595989
+popnext 8 
+bit is 773
+fit is 597534
+popnext 9 
+bit is 964
+fit is 929301
+popnext 10 
+bit is 1028
+fit is 1056789
+popnext 11 
+bit is 1220
+fit is 1488405
+popnext 12 
+bit is 2225
+fit is 4950630
+popnext 13 
+bit is 2361
+fit is 5574326
+popnext 14 
+bit is 4292
+fit is 18421269
+
+i = 4
+popnext 0 
+bit is 196
+fit is 38421
+popnext 1 
+bit is 196
+fit is 38421
+popnext 2 
+bit is 196
+fit is 38421
+popnext 3 
+bit is 196
+fit is 38421
+popnext 4 
+bit is 196
+fit is 38421
+popnext 5 
+bit is 196
+fit is 38421
+popnext 6 
+bit is 197
+fit is 38814
+popnext 7 
+bit is 197
+fit is 38814
+popnext 8 
+bit is 228
+fit is 51989
+popnext 9 
+bit is 772
+fit is 595989
+popnext 10 
+bit is 228
+fit is 595989
+popnext 11 
+bit is 773
+fit is 597534
+popnext 12 
+bit is 964
+fit is 929301
+popnext 13 
+bit is 1028
+fit is 1056789
+popnext 14 
+bit is 2244
+fit is 5035541
+
+i = 5
+popnext 0 
+bit is 192
+fit is 36869
+popnext 1 
+bit is 196
+fit is 38421
+popnext 2 
+bit is 196
+fit is 38421
+popnext 3 
+bit is 196
+fit is 38421
+popnext 4 
+bit is 196
+fit is 38421
+popnext 5 
+bit is 196
+fit is 38421
+popnext 6 
+bit is 196
+fit is 38421
+popnext 7 
+bit is 196
+fit is 38421
+popnext 8 
+bit is 196
+fit is 38421
+popnext 9 
+bit is 197
+fit is 38814
+popnext 10 
+bit is 197
+fit is 38814
+popnext 11 
+bit is 228
+fit is 51989
+popnext 12 
+bit is 708
+fit is 501269
+popnext 13 
+bit is 772
+fit is 595989
+popnext 14 
+bit is 228
+fit is 595989
+
+i = 6
+popnext 0 
+bit is 192
+fit is 36869
+popnext 1 
+bit is 192
+fit is 36869
+popnext 2 
+bit is 196
+fit is 38421
+popnext 3 
+bit is 196
+fit is 38421
+popnext 4 
+bit is 196
+fit is 38421
+popnext 5 
+bit is 196
+fit is 38421
+popnext 6 
+bit is 196
+fit is 38421
+popnext 7 
+bit is 196
+fit is 38421
+popnext 8 
+bit is 196
+fit is 38421
+popnext 9 
+bit is 196
+fit is 38421
+popnext 10 
+bit is 196
+fit is 38421
+popnext 11 
+bit is 197
+fit is 38814
+popnext 12 
+bit is 197
+fit is 38814
+popnext 13 
+bit is 208
+fit is 43269
+popnext 14 
+bit is 196
+fit is 51989
+
+i = 7
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 192
+fit is 36869
+popnext 2 
+bit is 192
+fit is 36869
+popnext 3 
+bit is 192
+fit is 36869
+popnext 4 
+bit is 192
+fit is 36869
+popnext 5 
+bit is 196
+fit is 38421
+popnext 6 
+bit is 196
+fit is 38421
+popnext 7 
+bit is 196
+fit is 38421
+popnext 8 
+bit is 196
+fit is 38421
+popnext 9 
+bit is 196
+fit is 38421
+popnext 10 
+bit is 196
+fit is 38421
+popnext 11 
+bit is 196
+fit is 38421
+popnext 12 
+bit is 196
+fit is 38421
+popnext 13 
+bit is 196
+fit is 38421
+popnext 14 
+bit is 192
+fit is 38814
+
+i = 8
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 144
+fit is 20741
+popnext 3 
+bit is 192
+fit is 36869
+popnext 4 
+bit is 192
+fit is 36869
+popnext 5 
+bit is 192
+fit is 36869
+popnext 6 
+bit is 192
+fit is 36869
+popnext 7 
+bit is 192
+fit is 36869
+popnext 8 
+bit is 196
+fit is 38421
+popnext 9 
+bit is 196
+fit is 38421
+popnext 10 
+bit is 196
+fit is 38421
+popnext 11 
+bit is 196
+fit is 38421
+popnext 12 
+bit is 196
+fit is 38421
+popnext 13 
+bit is 196
+fit is 38421
+popnext 14 
+bit is 192
+fit is 38421
+
+i = 9
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 136
+fit is 18501
+popnext 5 
+bit is 144
+fit is 20741
+popnext 6 
+bit is 192
+fit is 36869
+popnext 7 
+bit is 192
+fit is 36869
+popnext 8 
+bit is 192
+fit is 36869
+popnext 9 
+bit is 192
+fit is 36869
+popnext 10 
+bit is 192
+fit is 36869
+popnext 11 
+bit is 196
+fit is 38421
+popnext 12 
+bit is 196
+fit is 38421
+popnext 13 
+bit is 196
+fit is 38421
+popnext 14 
+bit is 128
+fit is 38421
+
+i = 10
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 136
+fit is 18501
+popnext 7 
+bit is 144
+fit is 20741
+popnext 8 
+bit is 192
+fit is 36869
+popnext 9 
+bit is 192
+fit is 36869
+popnext 10 
+bit is 192
+fit is 36869
+popnext 11 
+bit is 192
+fit is 36869
+popnext 12 
+bit is 192
+fit is 36869
+popnext 13 
+bit is 192
+fit is 36869
+popnext 14 
+bit is 128
+fit is 38421
+
+i = 11
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 136
+fit is 18501
+popnext 9 
+bit is 144
+fit is 20741
+popnext 10 
+bit is 4224
+fit is 20741
+popnext 11 
+bit is 192
+fit is 36869
+popnext 12 
+bit is 192
+fit is 36869
+popnext 13 
+bit is 192
+fit is 36869
+popnext 14 
+bit is 640
+fit is 409605
+
+i = 12
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 136
+fit is 18501
+popnext 11 
+bit is 144
+fit is 20741
+popnext 12 
+bit is 4224
+fit is 20741
+popnext 13 
+bit is 160
+fit is 25605
+popnext 14 
+bit is 128
+fit is 36869
+
+i = 13
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 136
+fit is 18501
+popnext 13 
+bit is 128
+fit is 20741
+popnext 14 
+bit is 192
+fit is 36869
+
+i = 14
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 128
+fit is 16389
+popnext 14 
+bit is 4224
+fit is 17842181
+
+i = 15
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 0
+fit is 16389
+popnext 14 
+bit is 384
+fit is 147461
+
+i = 16
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 192
+fit is 147461
+popnext 14 
+bit is 384
+fit is 147461
+
+i = 17
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 144
+fit is 16389
+popnext 14 
+bit is 384
+fit is 147461
+
+i = 18
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 128
+fit is 16389
+popnext 14 
+bit is 2176
+fit is 4734981
+
+i = 19
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 640
+fit is 16389
+popnext 14 
+bit is 4224
+fit is 17842181
+
+i = 20
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 128
+fit is 16389
+popnext 14 
+bit is 132
+fit is 17429
+
+i = 21
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 128
+fit is 16389
+popnext 14 
+bit is 160
+fit is 25605
+
+i = 22
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 128
+fit is 16389
+popnext 14 
+bit is 136
+fit is 18501
+
+i = 23
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 128
+fit is 16389
+popnext 14 
+bit is 2176
+fit is 4734981
+
+i = 24
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 128
+fit is 16389
+popnext 14 
+bit is 640
+fit is 409605
+
+i = 25
+popnext 0 
+bit is 128
+fit is 16389
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 128
+fit is 16389
+popnext 14 
+bit is 640
+fit is 409605
+
+i = 26
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 128
+fit is 16389
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 128
+fit is 16389
+popnext 14 
+bit is 144
+fit is 16389
+
+i = 27
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 128
+fit is 16389
+popnext 3 
+bit is 128
+fit is 16389
+popnext 4 
+bit is 128
+fit is 16389
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 0
+fit is 16389
+popnext 13 
+bit is 128
+fit is 16389
+popnext 14 
+bit is 144
+fit is 20741
+
+i = 28
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 4
+fit is 21
+popnext 5 
+bit is 128
+fit is 16389
+popnext 6 
+bit is 128
+fit is 16389
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 128
+fit is 16389
+popnext 14 
+bit is 0
+fit is 16389
+
+i = 29
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 4
+fit is 21
+popnext 7 
+bit is 128
+fit is 16389
+popnext 8 
+bit is 128
+fit is 16389
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 0
+fit is 16389
+popnext 14 
+bit is 256
+fit is 65541
+
+i = 30
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 4
+fit is 21
+popnext 9 
+bit is 128
+fit is 16389
+popnext 10 
+bit is 128
+fit is 16389
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 0
+fit is 16389
+popnext 14 
+bit is 256
+fit is 65541
+
+i = 31
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 4
+fit is 21
+popnext 11 
+bit is 128
+fit is 16389
+popnext 12 
+bit is 128
+fit is 16389
+popnext 13 
+bit is 0
+fit is 16389
+popnext 14 
+bit is 128
+fit is 16389
+
+i = 32
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 4
+fit is 21
+popnext 13 
+bit is 0
+fit is 16389
+popnext 14 
+bit is 1024
+fit is 1048581
+
+i = 33
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 512
+fit is 262149
+
+i = 34
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 512
+fit is 262149
+
+i = 35
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 2
+fit is 5
+popnext 14 
+bit is 2
+fit is 9
+
+i = 36
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 128
+fit is 16389
+
+i = 37
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 2048
+fit is 4194309
+
+i = 38
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 256
+fit is 65541
+
+i = 39
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 16
+fit is 261
+
+i = 40
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 1024
+fit is 1048581
+
+i = 41
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 1024
+fit is 1048581
+
+i = 42
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 16
+fit is 261
+
+i = 43
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 4
+fit is 5
+popnext 14 
+bit is 32
+fit is 1029
+
+i = 44
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 4096
+fit is 16777221
+
+i = 45
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 1024
+fit is 5
+popnext 14 
+bit is 64
+fit is 4101
+
+i = 46
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 8
+fit is 69
+
+i = 47
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 2
+fit is 9
+
+i = 48
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 2048
+fit is 4194309
+
+i = 49
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 128
+fit is 16389
+
+i = 50
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 64
+fit is 4101
+
+i = 51
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 256
+fit is 65541
+
+i = 52
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 4096
+fit is 16777221
+
+i = 53
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 2
+fit is 5
+popnext 14 
+bit is 2048
+fit is 4194309
+
+i = 54
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 8
+fit is 69
+
+i = 55
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 256
+fit is 65541
+
+i = 56
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 64
+fit is 4101
+
+i = 57
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 2
+fit is 9
+
+i = 58
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 2048
+fit is 4194309
+
+i = 59
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 2048
+fit is 5
+popnext 14 
+bit is 512
+fit is 262149
+
+i = 60
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 64
+fit is 4101
+
+i = 61
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 256
+fit is 65541
+
+i = 62
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 8
+fit is 69
+
+i = 63
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 1024
+fit is 1048581
+
+i = 64
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 4
+fit is 21
+
+i = 65
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 32
+fit is 1029
+
+i = 66
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 4096
+fit is 5
+popnext 14 
+bit is 32
+fit is 1029
+
+i = 67
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 4
+fit is 21
+
+i = 68
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 16
+fit is 261
+
+i = 69
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 8
+fit is 69
+popnext 14 
+bit is 4096
+fit is 16777221
+
+i = 70
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 1
+fit is 6
+
+i = 71
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 2
+fit is 9
+
+i = 72
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 4
+fit is 21
+
+i = 73
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 128
+fit is 16389
+
+i = 74
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 128
+fit is 5
+popnext 14 
+bit is 16
+fit is 261
+
+i = 75
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 256
+fit is 65541
+
+i = 76
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 4096
+fit is 5
+popnext 14 
+bit is 4096
+fit is 16777221
+
+i = 77
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 2
+fit is 9
+
+i = 78
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 16
+fit is 261
+
+i = 79
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 32
+fit is 1029
+
+i = 80
+popnext 0 
+bit is 0
+fit is 5
+popnext 1 
+bit is 0
+fit is 5
+popnext 2 
+bit is 0
+fit is 5
+popnext 3 
+bit is 0
+fit is 5
+popnext 4 
+bit is 0
+fit is 5
+popnext 5 
+bit is 0
+fit is 5
+popnext 6 
+bit is 0
+fit is 5
+popnext 7 
+bit is 0
+fit is 5
+popnext 8 
+bit is 0
+fit is 5
+popnext 9 
+bit is 0
+fit is 5
+popnext 10 
+bit is 0
+fit is 5
+popnext 11 
+bit is 0
+fit is 5
+popnext 12 
+bit is 0
+fit is 5
+popnext 13 
+bit is 0
+fit is 5
+popnext 14 
+bit is 512
+fit is 262149
+popcurrent 0 
+bit is 0
+fit is 5
+popcurrent 1 
+bit is 0
+fit is 5
+popcurrent 2 
+bit is 0
+fit is 5
+popcurrent 3 
+bit is 0
+fit is 5
+popcurrent 4 
+bit is 0
+fit is 5
+popcurrent 5 
+bit is 0
+fit is 5
+popcurrent 6 
+bit is 0
+fit is 5
+popcurrent 7 
+bit is 0
+fit is 5
+popcurrent 8 
+bit is 0
+fit is 5
+popcurrent 9 
+bit is 0
+fit is 5
+popcurrent 10 
+bit is 0
+fit is 5
+popcurrent 11 
+bit is 0
+fit is 5
+popcurrent 12 
+bit is 0
+fit is 5
+popcurrent 13 
+bit is 0
+fit is 5
+popcurrent 14 
+bit is 512
+fit is 262149
+
+ 当x等于 0时，函数得到最小值为： 5%d 
+
+Press any key to end ! 
+1245hinge
